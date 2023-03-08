@@ -12,6 +12,6 @@ HTML, CSS used
 
 ![](gif/galeri.gif)
 
-![](gif/referans.gif)
+![](gif/referanslar.gif)
 
 ![](gif/iletisim.gif)
